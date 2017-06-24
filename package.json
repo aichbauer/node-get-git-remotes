@@ -2,6 +2,7 @@
   "name": "get-git-remotes",
   "version": "1.0.0",
   "description": "Get the remote URLs of a git repository",
+  "main": "build.js",
   "scripts": {
     "pretest": "npm run lint",
     "test": "nyc ava -s",
