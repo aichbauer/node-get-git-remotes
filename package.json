@@ -1,6 +1,6 @@
 {
   "name": "get-git-remotes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the remote URLs of a git repository",
   "scripts": {
     "pretest": "npm run lint",
